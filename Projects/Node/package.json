@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "simple knowldge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Lojain",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16",
+    "pug": "^3.0.0"
+  }
+}
